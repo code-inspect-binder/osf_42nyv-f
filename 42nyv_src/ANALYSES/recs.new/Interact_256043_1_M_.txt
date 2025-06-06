@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11188.6	02	DarkGoldenrod	Right	Social Interaction	10402.9	2	2.0	235.1	117.6
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11188.6	02	DarkGoldenrod	Left	Social Interaction	10537.3	2	1.0	154.3	154.3
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11188.6	02	DarkGoldenrod	Right	Control	407.8	1	20.0	8635.6	431.8
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11188.6	02	DarkGoldenrod	Left	Control	407.8	1	23.0	8419.6	366.1
+Trial023	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12231.9	02	DarkGoldenrod	Right	Social Interaction	1599.1	2	10.0	1983.8	198.4
+Trial023	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12231.9	02	DarkGoldenrod	Left	Social Interaction	1603.1	2	10.0	2015.8	201.6
+Trial023	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12231.9	02	DarkGoldenrod	Right	Control	486.9	1	12.0	3988.7	332.4
+Trial023	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12231.9	02	DarkGoldenrod	Left	Control	486.9	1	12.0	4155.1	346.3
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12171.0	02	DarkGoldenrod	Right	Control	6721.1	2	12.0	3290.4	274.2
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12171.0	02	DarkGoldenrod	Left	Control	6765.1	2	12.0	3314.2	276.2
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12171.0	02	DarkGoldenrod	Right	Social Interaction	633.7	1	15.0	3891.5	259.4
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12171.0	02	DarkGoldenrod	Left	Social Interaction	629.7	1	19.0	5675.4	298.7
+Trial011	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11179.1	02	DarkGoldenrod	Right	Control	4091.4	2	8.0	2226.5	278.3
+Trial011	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11179.1	02	DarkGoldenrod	Left	Control	4095.4	2	10.0	2046.6	204.7
+Trial011	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11179.1	02	DarkGoldenrod	Right	Social Interaction	628.6	1	10.0	2048.3	204.8
+Trial011	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11179.1	02	DarkGoldenrod	Left	Social Interaction	524.6	1	11.0	2040.2	185.5
+Trial007	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12185.8	02	DarkGoldenrod	Right	Control	4119.8	2	9.0	3175.7	352.9
+Trial007	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12185.8	02	DarkGoldenrod	Left	Control	4123.8	2	8.0	3175.7	397.0
+Trial007	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12185.8	02	DarkGoldenrod	Right	Social Interaction	480.1	1	25.0	6613.3	264.5
+Trial007	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12185.8	02	DarkGoldenrod	Left	Social Interaction	472.1	1	24.0	6374.1	265.6
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11218.4	02	DarkGoldenrod	Right	Social Interaction	4127.1	2	6.0	1892.7	315.4
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11218.4	02	DarkGoldenrod	Left	Social Interaction	4131.1	2	5.0	1615.2	323.0
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11218.4	02	DarkGoldenrod	Right	Control	538.9	1	21.0	5100.3	242.9
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11218.4	02	DarkGoldenrod	Left	Control	542.9	1	22.0	4932.4	224.2
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11192.2	02	DarkGoldenrod	Right	Control	1475.7	2	8.0	3155.5	394.4
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11192.2	02	DarkGoldenrod	Left	Control	1479.7	2	9.0	3131.7	348.0
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11192.2	02	DarkGoldenrod	Right	Social Interaction	471.7	1	8.0	3292.0	411.5
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11192.2	02	DarkGoldenrod	Left	Social Interaction	475.7	1	10.0	2103.8	210.4
+Trial027	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12207.5	02	DarkGoldenrod	Right	Social Interaction	498.8	1	9.0	1643.9	182.7
+Trial027	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12207.5	02	DarkGoldenrod	Left	Social Interaction	498.8	1	10.0	1807.9	180.8
+Trial027	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12207.5	02	DarkGoldenrod	Right	Control	1602.7	2	9.0	1909.2	212.1
+Trial027	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12207.5	02	DarkGoldenrod	Left	Control	1598.7	2	8.0	2041.7	255.2
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12191.9	02	DarkGoldenrod	Right	Social Interaction	478.9	1	11.0	4027.6	366.1
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12191.9	02	DarkGoldenrod	Left	Social Interaction	482.9	1	11.0	3939.5	358.1
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12191.9	02	DarkGoldenrod	Right	Control	3766.7	2	18.0	6927.7	384.9
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12191.9	02	DarkGoldenrod	Left	Control	3766.7	2	23.0	6619.8	287.8
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11172.8	02	DarkGoldenrod	Right	Social Interaction	3989.5	2	11.0	4235.5	385.0
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11172.8	02	DarkGoldenrod	Left	Social Interaction	3989.5	2	12.0	4491.6	374.3
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11172.8	02	DarkGoldenrod	Right	Control	217.8	1	18.0	5099.8	283.3
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11172.8	02	DarkGoldenrod	Left	Control	213.8	1	14.0	5195.8	371.1
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11177.1	02	DarkGoldenrod	Right	Social Interaction	7838.0	2	14.0	2255.4	161.1
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11177.1	02	DarkGoldenrod	Left	Social Interaction	7842.0	2	11.0	2607.5	237.0
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11177.1	02	DarkGoldenrod	Right	Control	393.9	1	21.0	7152.1	340.6
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11177.1	02	DarkGoldenrod	Left	Control	389.9	1	17.0	7168.0	421.6
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12214.9	02	DarkGoldenrod	Right	Control	11299.6	2	2.0	226.0	113.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12214.9	02	DarkGoldenrod	Left	Control	11299.6	2	5.0	690.2	138.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12214.9	02	DarkGoldenrod	Right	Social Interaction	476.3	1	7.0	2047.4	292.5
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12214.9	02	DarkGoldenrod	Left	Social Interaction	472.3	1	5.0	2047.4	409.5

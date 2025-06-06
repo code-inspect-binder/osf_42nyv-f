@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11164.6	257211	Maroon	Right	Social Interaction	6478.8	2	2.0	291.8	145.9
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11164.6	257211	Maroon	Left	Social Interaction	6854.6	2	1.0	96.3	96.3
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11164.6	257211	Maroon	Right	Control	1620.1	1	12.0	1940.7	161.7
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11164.6	257211	Maroon	Left	Control	788.2	1	18.0	3688.7	204.9
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12232.5	257211	Maroon	Right	Social Interaction	3543.3	2	18.0	5747.4	319.3
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12232.5	257211	Maroon	Left	Social Interaction	3967.0	2	5.0	1399.9	280.0
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12232.5	257211	Maroon	Right	Control	639.4	1	4.0	988.1	247.0
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12232.5	257211	Maroon	Left	Control	923.8	1	4.0	424.0	106.0
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12202.3	257211	Maroon	Right	Control	635.2	1	4.0	667.7	166.9
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12202.3	257211	Maroon	Left	Control	1175.1	1	2.0	824.6	412.3
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12202.3	257211	Maroon	Right	Social Interaction	1739.0	2	18.0	2695.1	149.7
+Trial013	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12202.3	257211	Maroon	Left	Social Interaction	1647.0	2	23.0	3531.2	153.5
+Trial025	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11192.5	257211	Maroon	Right	Control	1920.0	2	4.0	780.2	195.0
+Trial025	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11192.5	257211	Maroon	Left	Control	2312.0	2	4.0	523.4	130.9
+Trial025	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11192.5	257211	Maroon	Right	Social Interaction	520.0	1	1.0	175.9	175.9
+Trial025	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11192.5	257211	Maroon	Left	Social Interaction	516.0	1	3.0	484.0	161.3
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12184.7	257211	Maroon	Right	Control	8352.5	2	3.0	348.0	116.0
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12184.7	257211	Maroon	Left	Control	7732.5	2	5.0	1075.9	215.2
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12184.7	257211	Maroon	Right	Social Interaction	981.6	1	9.0	1075.4	119.5
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12184.7	257211	Maroon	Left	Social Interaction	757.0	1	12.0	2227.9	185.7
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11190.4	257211	Maroon	Right	Social Interaction	788.8	1	6.0	759.6	126.6
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11190.4	257211	Maroon	Left	Social Interaction	1048.9	1	10.0	1748.4	174.8
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11190.4	257211	Maroon	Right	Control	6484.1	2	1.0	108.1	108.1
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11190.4	257211	Maroon	Left	Control	6440.0	2	1.0	124.2	124.2
+Trial017	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11254.5	257211	Maroon	Right	Control	3061.7	1	1.0	104.0	104.0
+Trial017	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11254.5	257211	Maroon	Left	Control	1030.0	1	2.0	563.8	281.9
+Trial017	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11254.5	257211	Maroon	Right	Social Interaction	3525.7	2	24.0	3923.2	163.5
+Trial017	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11254.5	257211	Maroon	Left	Social Interaction	3517.7	2	17.0	4315.6	253.9
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12233.0	257211	Maroon	Right	Social Interaction	3776.8	1	2.0	192.0	96.0
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12233.0	257211	Maroon	Left	Social Interaction	2528.9	2	2.0	875.9	438.0
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12233.0	257211	Maroon	Right	Control	4424.7	2	2.0	180.0	90.0
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12233.0	257211	Maroon	Left	Control	737.1	1	4.0	436.0	109.0
+Trial027	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12146.4	257211	Maroon	Right	Social Interaction	3482.7	1	3.0	979.9	326.6
+Trial027	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12146.4	257211	Maroon	Left	Social Interaction	423.0	1	5.0	1951.9	390.4
+Trial027	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12146.4	257211	Maroon	Right	Control	5458.4	2	11.0	3032.0	275.6
+Trial027	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12146.4	257211	Maroon	Left	Control	5211.2	2	5.0	1143.1	228.6
+Trial029	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.1	257211	Maroon	Right	Social Interaction	4055.0	1	2.0	555.8	277.9
+Trial029	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.1	257211	Maroon	Left	Social Interaction	3483.2	2	8.0	1415.9	177.0
+Trial029	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.1	257211	Maroon	Right	Control	-	-	0.0	0.0	0.0
+Trial029	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.1	257211	Maroon	Left	Control	1031.2	1	3.0	2315.9	772.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.8	257211	Maroon	Right	Social Interaction	502.4	1	6.0	2184.2	364.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.8	257211	Maroon	Left	Social Interaction	4581.9	1	2.0	1915.7	957.8
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.8	257211	Maroon	Right	Control	1518.2	2	6.0	1703.8	284.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.8	257211	Maroon	Left	Control	8381.7	2	6.0	1004.1	167.3
+Trial015	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.0	257211	Maroon	Right	Control	5758.7	2	5.0	604.0	120.8
+Trial015	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.0	257211	Maroon	Left	Control	5666.8	2	1.0	87.9	87.9
+Trial015	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.0	257211	Maroon	Right	Social Interaction	823.2	1	6.0	1444.1	240.7
+Trial015	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.0	257211	Maroon	Left	Social Interaction	679.3	1	9.0	1195.9	132.9

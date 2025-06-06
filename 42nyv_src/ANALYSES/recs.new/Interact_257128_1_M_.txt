@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial021	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11232.0	257128	LightSkyBlue	Right	Social Interaction	2136.0	2	2.0	472.0	236.0
+Trial021	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11232.0	257128	LightSkyBlue	Left	Social Interaction	2144.0	2	1.0	468.0	468.0
+Trial021	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11232.0	257128	LightSkyBlue	Right	Control	872.3	1	11.0	2272.8	206.6
+Trial021	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11232.0	257128	LightSkyBlue	Left	Control	856.3	1	9.0	2213.0	245.9
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12170.2	257128	LightSkyBlue	Right	Social Interaction	656.6	1	1.0	80.1	80.1
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12170.2	257128	LightSkyBlue	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12170.2	257128	LightSkyBlue	Right	Control	1924.6	2	5.0	543.7	108.7
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12170.2	257128	LightSkyBlue	Left	Control	1420.4	1	16.0	1951.9	122.0
+Trial023	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12167.6	257128	LightSkyBlue	Right	Control	593.8	1	7.0	2100.0	300.0
+Trial023	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12167.6	257128	LightSkyBlue	Left	Control	541.9	1	9.0	1953.1	217.0
+Trial023	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12167.6	257128	LightSkyBlue	Right	Social Interaction	1809.9	2	2.0	427.9	214.0
+Trial023	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12167.6	257128	LightSkyBlue	Left	Social Interaction	1801.9	2	3.0	771.9	257.3
+Trial009	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11177.9	257128	LightSkyBlue	Right	Control	-	-	0.0	0.0	0.0
+Trial009	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11177.9	257128	LightSkyBlue	Left	Control	1784.3	1	22.0	2636.4	119.8
+Trial009	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11177.9	257128	LightSkyBlue	Right	Social Interaction	7208.0	1	3.0	300.1	100.0
+Trial009	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11177.9	257128	LightSkyBlue	Left	Social Interaction	6511.9	2	8.0	1272.5	159.1
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12188.4	257128	LightSkyBlue	Right	Control	951.4	1	1.0	96.0	96.0
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12188.4	257128	LightSkyBlue	Left	Control	735.3	1	2.0	220.1	110.1
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12188.4	257128	LightSkyBlue	Right	Social Interaction	4043.2	2	12.0	1948.0	162.3
+Trial011	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12188.4	257128	LightSkyBlue	Left	Social Interaction	1351.4	2	13.0	3003.9	231.1
+Trial029	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11175.5	257128	LightSkyBlue	Right	Social Interaction	1016.5	2	18.0	2825.6	157.0
+Trial029	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11175.5	257128	LightSkyBlue	Left	Social Interaction	1020.5	2	14.0	3653.7	261.0
+Trial029	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11175.5	257128	LightSkyBlue	Right	Control	632.6	1	7.0	1228.0	175.4
+Trial029	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11175.5	257128	LightSkyBlue	Left	Control	464.6	1	5.0	1607.9	321.6
+Trial019	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11229.6	257128	LightSkyBlue	Right	Control	911.2	1	10.0	2401.1	240.1
+Trial019	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11229.6	257128	LightSkyBlue	Left	Control	907.2	1	14.0	3140.6	224.3
+Trial019	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11229.6	257128	LightSkyBlue	Right	Social Interaction	2726.8	2	5.0	1048.1	209.6
+Trial019	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11229.6	257128	LightSkyBlue	Left	Social Interaction	2714.8	2	5.0	1072.1	214.4
+Trial025	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12156.7	257128	LightSkyBlue	Right	Social Interaction	670.7	1	13.0	2873.7	221.1
+Trial025	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12156.7	257128	LightSkyBlue	Left	Social Interaction	674.7	1	13.0	2972.2	228.6
+Trial025	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12156.7	257128	LightSkyBlue	Right	Control	6962.4	2	2.0	340.3	170.1
+Trial025	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12156.7	257128	LightSkyBlue	Left	Control	6998.7	2	2.0	340.3	170.1
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12157.2	257128	LightSkyBlue	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12157.2	257128	LightSkyBlue	Left	Social Interaction	905.6	1	4.0	483.8	121.0
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12157.2	257128	LightSkyBlue	Right	Control	-	-	0.0	0.0	0.0
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12157.2	257128	LightSkyBlue	Left	Control	-	-	0.0	0.0	0.0
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.6	257128	LightSkyBlue	Right	Social Interaction	4868.0	2	3.0	340.2	113.4
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.6	257128	LightSkyBlue	Left	Social Interaction	1300.5	2	5.0	668.1	133.6
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.6	257128	LightSkyBlue	Right	Control	732.7	1	14.0	1912.0	136.6
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.6	257128	LightSkyBlue	Left	Control	672.7	1	20.0	3879.7	194.0
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11241.2	257128	LightSkyBlue	Right	Social Interaction	1091.6	1	6.0	1264.2	210.7
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11241.2	257128	LightSkyBlue	Left	Social Interaction	1099.6	1	7.0	1088.2	155.5
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11241.2	257128	LightSkyBlue	Right	Control	2251.6	2	11.0	3108.8	282.6
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11241.2	257128	LightSkyBlue	Left	Control	2219.6	2	11.0	2592.5	235.7
+Trial017	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12182.5	257128	LightSkyBlue	Right	Control	4207.5	1	4.0	422.7	105.7
+Trial017	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12182.5	257128	LightSkyBlue	Left	Control	4244.1	1	5.0	640.3	128.1
+Trial017	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12182.5	257128	LightSkyBlue	Right	Social Interaction	5506.5	2	30.0	4367.0	145.6
+Trial017	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12182.5	257128	LightSkyBlue	Left	Social Interaction	5506.5	2	11.0	6319.3	574.5

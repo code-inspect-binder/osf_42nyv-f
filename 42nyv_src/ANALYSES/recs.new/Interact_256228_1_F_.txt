@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial007	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11202.4	256228	DarkSeaGreen	Right	Social Interaction	437.0	1	11.0	3211.3	291.9
+Trial007	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11202.4	256228	DarkSeaGreen	Left	Social Interaction	481.0	1	9.0	2499.7	277.7
+Trial007	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11202.4	256228	DarkSeaGreen	Right	Control	1084.9	2	12.0	2805.3	233.8
+Trial007	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11202.4	256228	DarkSeaGreen	Left	Control	1072.8	2	9.0	2974.8	330.5
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12249.1	256228	DarkSeaGreen	Right	Social Interaction	348.1	1	2.0	383.8	191.9
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12249.1	256228	DarkSeaGreen	Left	Social Interaction	555.9	1	2.0	172.0	86.0
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12249.1	256228	DarkSeaGreen	Right	Control	911.9	2	17.0	3433.3	202.0
+Trial021	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12249.1	256228	DarkSeaGreen	Left	Control	931.9	2	12.0	3464.7	288.7
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12211.6	256228	DarkSeaGreen	Right	Control	525.6	1	10.0	2390.0	239.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12211.6	256228	DarkSeaGreen	Left	Control	525.6	1	11.0	2497.8	227.1
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12211.6	256228	DarkSeaGreen	Right	Social Interaction	2025.5	2	11.0	2354.2	214.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12211.6	256228	DarkSeaGreen	Left	Social Interaction	2025.5	2	7.0	1199.4	171.3
+Trial017	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11182.2	256228	DarkSeaGreen	Right	Control	521.1	1	8.0	3904.4	488.1
+Trial017	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11182.2	256228	DarkSeaGreen	Left	Control	529.1	1	11.0	3816.8	347.0
+Trial017	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11182.2	256228	DarkSeaGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial017	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11182.2	256228	DarkSeaGreen	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial029	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12222.1	256228	DarkSeaGreen	Right	Control	398.9	1	10.0	2078.4	207.8
+Trial029	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12222.1	256228	DarkSeaGreen	Left	Control	407.0	1	8.0	2078.2	259.8
+Trial029	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12222.1	256228	DarkSeaGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial029	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12222.1	256228	DarkSeaGreen	Left	Social Interaction	11782.1	2	1.0	148.0	148.0
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11165.8	256228	DarkSeaGreen	Right	Social Interaction	1035.0	2	8.0	3999.7	500.0
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11165.8	256228	DarkSeaGreen	Left	Social Interaction	1043.0	2	12.0	3811.6	317.6
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11165.8	256228	DarkSeaGreen	Right	Control	415.0	1	7.0	2041.7	291.7
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11165.8	256228	DarkSeaGreen	Left	Control	415.0	1	5.0	1300.1	260.0
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11232.6	256228	DarkSeaGreen	Right	Control	454.9	1	14.0	3888.2	277.7
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11232.6	256228	DarkSeaGreen	Left	Control	486.9	1	24.0	4272.4	178.0
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11232.6	256228	DarkSeaGreen	Right	Social Interaction	2082.6	2	4.0	1504.6	376.1
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11232.6	256228	DarkSeaGreen	Left	Social Interaction	2078.6	2	3.0	1581.2	527.1
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12197.5	256228	DarkSeaGreen	Right	Social Interaction	933.3	2	7.0	2588.4	369.8
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12197.5	256228	DarkSeaGreen	Left	Social Interaction	937.3	2	9.0	2500.1	277.8
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12197.5	256228	DarkSeaGreen	Right	Control	389.6	1	7.0	2313.3	330.5
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12197.5	256228	DarkSeaGreen	Left	Control	389.6	1	5.0	2040.4	408.1
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12164.4	256228	DarkSeaGreen	Right	Social Interaction	728.0	2	15.0	5915.4	394.4
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12164.4	256228	DarkSeaGreen	Left	Social Interaction	752.1	2	16.0	5443.5	340.2
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12164.4	256228	DarkSeaGreen	Right	Control	504.1	1	10.0	2087.1	208.7
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12164.4	256228	DarkSeaGreen	Left	Control	500.1	1	10.0	1704.6	170.5
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11222.2	256228	DarkSeaGreen	Right	Social Interaction	419.3	1	9.0	1954.6	217.2
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11222.2	256228	DarkSeaGreen	Left	Social Interaction	539.3	1	10.0	2096.4	209.6
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11222.2	256228	DarkSeaGreen	Right	Control	927.4	2	12.0	3095.8	258.0
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11222.2	256228	DarkSeaGreen	Left	Control	839.3	2	7.0	3307.8	472.5
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11207.0	256228	DarkSeaGreen	Right	Social Interaction	364.5	1	11.0	2491.1	226.5
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11207.0	256228	DarkSeaGreen	Left	Social Interaction	372.5	1	13.0	2671.1	205.5
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11207.0	256228	DarkSeaGreen	Right	Control	8192.5	2	2.0	496.4	248.2
+Trial027	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11207.0	256228	DarkSeaGreen	Left	Control	8140.5	2	4.0	820.6	205.1
+Trial025	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12150.3	256228	DarkSeaGreen	Right	Control	338.7	1	13.0	3753.3	288.7
+Trial025	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12150.3	256228	DarkSeaGreen	Left	Control	346.6	1	12.0	3755.8	313.0
+Trial025	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12150.3	256228	DarkSeaGreen	Right	Social Interaction	5942.4	2	10.0	1408.6	140.9
+Trial025	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12150.3	256228	DarkSeaGreen	Left	Social Interaction	5918.5	2	7.0	1412.5	201.8

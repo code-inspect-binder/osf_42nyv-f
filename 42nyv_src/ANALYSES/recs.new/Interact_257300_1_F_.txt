@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial029	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11181.7	257300	Lime	Right	Social Interaction	4072.8	2	4.0	1068.2	267.1
+Trial029	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11181.7	257300	Lime	Left	Social Interaction	4068.8	2	4.0	1068.2	267.1
+Trial029	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11181.7	257300	Lime	Right	Control	702.5	1	15.0	2693.1	179.5
+Trial029	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11181.7	257300	Lime	Left	Control	706.5	1	14.0	2698.3	192.7
+Trial007	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12166.7	257300	Lime	Right	Social Interaction	1384.3	2	13.0	2112.1	162.5
+Trial007	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12166.7	257300	Lime	Left	Social Interaction	1800.2	2	3.0	280.0	93.3
+Trial007	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12166.7	257300	Lime	Right	Control	516.4	1	14.0	2638.7	188.5
+Trial007	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12166.7	257300	Lime	Left	Control	644.4	1	12.0	2951.9	246.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12158.6	257300	Lime	Right	Control	6256.3	2	4.0	955.6	238.9
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12158.6	257300	Lime	Left	Control	6404.0	2	3.0	839.9	280.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12158.6	257300	Lime	Right	Social Interaction	360.6	1	33.0	7463.5	226.2
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12158.6	257300	Lime	Left	Social Interaction	360.6	1	26.0	7080.1	272.3
+Trial015	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11235.9	257300	Lime	Right	Control	200.8	1	2.0	588.0	294.0
+Trial015	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11235.9	257300	Lime	Left	Control	-	-	0.0	0.0	0.0
+Trial015	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11235.9	257300	Lime	Right	Social Interaction	1044.9	2	15.0	2811.7	187.4
+Trial015	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11235.9	257300	Lime	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial027	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12176.6	257300	Lime	Right	Control	-	-	0.0	0.0	0.0
+Trial027	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12176.6	257300	Lime	Left	Control	-	-	0.0	0.0	0.0
+Trial027	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12176.6	257300	Lime	Right	Social Interaction	9500.9	1	5.0	1009.6	201.9
+Trial027	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12176.6	257300	Lime	Left	Social Interaction	568.8	1	6.0	1536.1	256.0
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11151.0	257300	Lime	Right	Social Interaction	1565.5	2	7.0	1911.9	273.1
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11151.0	257300	Lime	Left	Social Interaction	1565.5	2	13.0	2186.6	168.2
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11151.0	257300	Lime	Right	Control	796.1	1	16.0	2380.3	148.8
+Trial009	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11151.0	257300	Lime	Left	Control	737.5	1	4.0	911.9	228.0
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11282.8	257300	Lime	Right	Control	2407.1	2	2.0	763.9	381.9
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11282.8	257300	Lime	Left	Control	2407.1	2	2.0	763.9	381.9
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11282.8	257300	Lime	Right	Social Interaction	395.2	1	32.0	8609.4	269.0
+Trial023	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11282.8	257300	Lime	Left	Social Interaction	395.2	1	8.0	2355.9	294.5
+Trial011	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12174.4	257300	Lime	Right	Social Interaction	1342.2	2	12.0	2275.7	189.6
+Trial011	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12174.4	257300	Lime	Left	Social Interaction	1342.2	2	2.0	527.8	263.9
+Trial011	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12174.4	257300	Lime	Right	Control	430.2	1	24.0	5991.7	249.7
+Trial011	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12174.4	257300	Lime	Left	Control	434.2	1	10.0	1723.7	172.4
+Trial013	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12213.5	257300	Lime	Right	Social Interaction	1129.6	2	4.0	1232.1	308.0
+Trial013	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12213.5	257300	Lime	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial013	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12213.5	257300	Lime	Right	Control	381.9	1	33.0	6983.5	211.6
+Trial013	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12213.5	257300	Lime	Left	Control	4121.5	1	4.0	484.2	121.1
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.8	257300	Lime	Right	Social Interaction	3311.7	2	6.0	2014.1	335.7
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.8	257300	Lime	Left	Social Interaction	3311.7	2	3.0	879.9	293.3
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.8	257300	Lime	Right	Control	644.1	1	10.0	2375.8	237.6
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.8	257300	Lime	Left	Control	648.1	1	10.0	2043.6	204.4
+Trial025	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11220.7	257300	Lime	Right	Social Interaction	6803.8	2	10.0	1908.6	190.9
+Trial025	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11220.7	257300	Lime	Left	Social Interaction	6803.8	1	4.0	952.0	238.0
+Trial025	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11220.7	257300	Lime	Right	Control	496.7	1	18.0	7075.5	393.1
+Trial025	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11220.7	257300	Lime	Left	Control	-	-	0.0	0.0	0.0
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12164.9	257300	Lime	Right	Control	475.1	1	7.0	1146.6	163.8
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12164.9	257300	Lime	Left	Control	479.1	1	6.0	1114.7	185.8
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12164.9	257300	Lime	Right	Social Interaction	950.9	2	24.0	8428.9	351.2
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12164.9	257300	Lime	Left	Social Interaction	1051.0	2	23.0	8400.8	365.3

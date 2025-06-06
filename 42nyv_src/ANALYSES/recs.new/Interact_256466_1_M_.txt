@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11163.7	256466	LawnGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11163.7	256466	LawnGreen	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11163.7	256466	LawnGreen	Right	Control	1017.3	1	1.0	80.0	80.0
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11163.7	256466	LawnGreen	Left	Control	-	-	0.0	0.0	0.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.7	256466	LawnGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.7	256466	LawnGreen	Left	Social Interaction	7375.0	2	1.0	92.0	92.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.7	256466	LawnGreen	Right	Control	3051.4	1	5.0	703.9	140.8
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.7	256466	LawnGreen	Left	Control	3183.4	1	11.0	1459.6	132.7
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12155.9	256466	LawnGreen	Right	Control	-	-	0.0	0.0	0.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12155.9	256466	LawnGreen	Left	Control	-	-	0.0	0.0	0.0
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12155.9	256466	LawnGreen	Right	Social Interaction	1406.4	1	22.0	3688.0	167.6
+Trial019	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12155.9	256466	LawnGreen	Left	Social Interaction	1162.5	1	27.0	4807.6	178.1
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11148.3	256466	LawnGreen	Right	Control	5806.8	1	7.0	1920.7	274.4
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11148.3	256466	LawnGreen	Left	Control	5937.9	1	11.0	1665.5	151.4
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11148.3	256466	LawnGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11148.3	256466	LawnGreen	Left	Social Interaction	8091.6	2	6.0	963.9	160.7
+Trial017	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12182.0	256466	LawnGreen	Right	Control	1840.1	2	18.0	2714.5	150.8
+Trial017	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12182.0	256466	LawnGreen	Left	Control	5507.9	2	16.0	1594.6	99.7
+Trial017	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12182.0	256466	LawnGreen	Right	Social Interaction	396.3	1	10.0	1108.3	110.8
+Trial017	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12182.0	256466	LawnGreen	Left	Social Interaction	1180.2	1	4.0	396.1	99.0
+Trial023	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11196.1	256466	LawnGreen	Right	Social Interaction	844.9	1	7.0	806.6	115.2
+Trial023	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11196.1	256466	LawnGreen	Left	Social Interaction	960.9	1	5.0	552.5	110.5
+Trial023	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11196.1	256466	LawnGreen	Right	Control	3520.8	2	9.0	1504.0	167.1
+Trial023	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11196.1	256466	LawnGreen	Left	Control	3460.8	2	11.0	2371.8	215.6
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11202.5	256466	LawnGreen	Right	Control	1301.7	2	21.0	4247.9	202.3
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11202.5	256466	LawnGreen	Left	Control	1481.7	2	17.0	2679.8	157.6
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11202.5	256466	LawnGreen	Right	Social Interaction	1041.5	1	4.0	491.6	122.9
+Trial025	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11202.5	256466	LawnGreen	Left	Social Interaction	981.6	1	5.0	1059.7	211.9
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12217.9	256466	LawnGreen	Right	Social Interaction	746.0	1	5.0	790.0	158.0
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12217.9	256466	LawnGreen	Left	Social Interaction	758.0	1	4.0	536.1	134.0
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12217.9	256466	LawnGreen	Right	Control	1338.3	2	9.0	972.1	108.0
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12217.9	256466	LawnGreen	Left	Control	1068.6	2	10.0	1768.9	176.9
+Trial009	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12167.6	256466	LawnGreen	Right	Social Interaction	768.9	1	38.0	4999.5	131.6
+Trial009	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12167.6	256466	LawnGreen	Left	Social Interaction	948.7	1	38.0	4711.9	124.0
+Trial009	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12167.6	256466	LawnGreen	Right	Control	4240.5	2	1.0	83.9	83.9
+Trial009	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12167.6	256466	LawnGreen	Left	Control	2236.7	2	6.0	963.8	160.6
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.9	256466	LawnGreen	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.9	256466	LawnGreen	Left	Social Interaction	1794.4	2	2.0	224.2	112.1
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.9	256466	LawnGreen	Right	Control	454.6	1	9.0	1448.2	160.9
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11179.9	256466	LawnGreen	Left	Control	546.6	1	8.0	756.0	94.5
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11252.2	256466	LawnGreen	Right	Social Interaction	3128.7	2	12.0	2292.1	191.0
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11252.2	256466	LawnGreen	Left	Social Interaction	3152.7	1	8.0	1016.1	127.0
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11252.2	256466	LawnGreen	Right	Control	2316.0	1	8.0	2520.5	315.1
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11252.2	256466	LawnGreen	Left	Control	6902.1	2	7.0	887.6	126.8
+Trial007	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.3	256466	LawnGreen	Right	Control	-	-	0.0	0.0	0.0
+Trial007	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.3	256466	LawnGreen	Left	Control	9940.9	2	4.0	395.8	99.0
+Trial007	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.3	256466	LawnGreen	Right	Social Interaction	681.5	1	21.0	2731.4	130.1
+Trial007	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12170.3	256466	LawnGreen	Left	Social Interaction	1949.7	1	16.0	1915.7	119.7

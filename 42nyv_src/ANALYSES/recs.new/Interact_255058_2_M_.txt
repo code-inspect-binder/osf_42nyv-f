@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11208.1	255058	Green	Right	Social Interaction	375.1	1	9.0	1203.8	133.8
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11208.1	255058	Green	Left	Social Interaction	1091.6	1	21.0	3144.0	149.7
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11208.1	255058	Green	Right	Control	8890.8	2	2.0	196.2	98.1
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11208.1	255058	Green	Left	Control	8378.8	2	6.0	658.0	109.7
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12211.0	255058	Green	Right	Social Interaction	3159.4	2	19.0	5636.7	296.7
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12211.0	255058	Green	Left	Social Interaction	3636.1	2	21.0	3512.5	167.3
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12211.0	255058	Green	Right	Control	2686.9	1	10.0	1684.2	168.4
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12211.0	255058	Green	Left	Control	2256.4	1	7.0	1246.7	178.1
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12222.0	255058	Green	Right	Control	393.9	1	8.0	1732.1	216.5
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12222.0	255058	Green	Left	Control	397.9	1	21.0	2437.7	116.1
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12222.0	255058	Green	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12222.0	255058	Green	Left	Social Interaction	1486.1	2	1.0	223.9	223.9
+Trial023	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11207.1	255058	Green	Right	Control	360.5	1	8.0	2539.3	317.4
+Trial023	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11207.1	255058	Green	Left	Control	356.5	1	11.0	2439.4	221.8
+Trial023	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11207.1	255058	Green	Right	Social Interaction	1864.7	2	1.0	220.0	220.0
+Trial023	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11207.1	255058	Green	Left	Social Interaction	1616.6	2	4.0	656.0	164.0
+Trial013	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12205.7	255058	Green	Right	Control	1296.1	2	4.0	1028.0	257.0
+Trial013	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12205.7	255058	Green	Left	Control	-	-	0.0	0.0	0.0
+Trial013	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12205.7	255058	Green	Right	Social Interaction	520.2	1	27.0	6071.4	224.9
+Trial013	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12205.7	255058	Green	Left	Social Interaction	420.2	1	48.0	8031.7	167.3
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11205.3	255058	Green	Right	Social Interaction	441.2	1	4.0	856.1	214.0
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11205.3	255058	Green	Left	Social Interaction	569.2	1	2.0	387.7	193.8
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11205.3	255058	Green	Right	Control	1845.1	2	20.0	3999.9	200.0
+Trial019	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11205.3	255058	Green	Left	Control	1553.0	2	22.0	5707.4	259.4
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11263.2	255058	Green	Right	Control	440.6	1	28.0	6315.6	225.6
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11263.2	255058	Green	Left	Control	424.6	1	32.0	3755.5	117.4
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11263.2	255058	Green	Right	Social Interaction	2224.5	2	5.0	1131.8	226.4
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11263.2	255058	Green	Left	Social Interaction	1852.5	2	7.0	1635.8	233.7
+Trial029	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12235.9	255058	Green	Right	Social Interaction	1119.8	1	30.0	5048.8	168.3
+Trial029	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12235.9	255058	Green	Left	Social Interaction	415.4	1	44.0	9092.6	206.6
+Trial029	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12235.9	255058	Green	Right	Control	11543.1	2	2.0	204.1	102.0
+Trial029	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12235.9	255058	Green	Left	Control	11671.1	2	1.0	172.0	172.0
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12220.6	255058	Green	Right	Social Interaction	426.3	1	4.0	460.2	115.0
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12220.6	255058	Green	Left	Social Interaction	350.1	1	4.0	656.4	164.1
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12220.6	255058	Green	Right	Control	1810.4	2	25.0	9147.5	365.9
+Trial015	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12220.6	255058	Green	Left	Control	1286.6	2	24.0	10319.0	430.0
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.2	255058	Green	Right	Social Interaction	848.1	1	5.0	1576.1	315.2
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.2	255058	Green	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.2	255058	Green	Right	Control	1880.0	2	14.0	2412.5	172.3
+Trial007	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11171.2	255058	Green	Left	Control	3076.0	1	9.0	1600.1	177.8
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11235.2	255058	Green	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11235.2	255058	Green	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11235.2	255058	Green	Right	Control	372.6	1	17.0	6223.8	366.1
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11235.2	255058	Green	Left	Control	372.6	1	33.0	9648.0	292.4
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12226.1	255058	Green	Right	Control	379.2	1	2.0	304.6	152.3
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12226.1	255058	Green	Left	Control	-	-	0.0	0.0	0.0
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12226.1	255058	Green	Right	Social Interaction	831.7	2	16.0	4163.7	260.2
+Trial021	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12226.1	255058	Green	Left	Social Interaction	823.7	1	26.0	5787.9	222.6

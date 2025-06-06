@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial023	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11206.4	254773	DarkOrchid	Right	Social Interaction	446.5	1	25.0	4915.1	196.6
+Trial023	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11206.4	254773	DarkOrchid	Left	Social Interaction	446.5	1	20.0	4631.0	231.6
+Trial023	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11206.4	254773	DarkOrchid	Right	Control	1442.4	2	6.0	943.2	157.2
+Trial023	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11206.4	254773	DarkOrchid	Left	Control	1534.4	2	5.0	1183.9	236.8
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12262.7	254773	DarkOrchid	Right	Social Interaction	1344.7	2	25.0	5964.0	238.6
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12262.7	254773	DarkOrchid	Left	Social Interaction	1372.7	2	24.0	5292.4	220.5
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12262.7	254773	DarkOrchid	Right	Control	520.8	1	9.0	1572.0	174.7
+Trial009	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12262.7	254773	DarkOrchid	Left	Control	520.8	1	11.0	1895.9	172.4
+Trial029	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12206.2	254773	DarkOrchid	Right	Control	8654.8	2	4.0	1120.8	280.2
+Trial029	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12206.2	254773	DarkOrchid	Left	Control	8654.8	2	4.0	796.9	199.2
+Trial029	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12206.2	254773	DarkOrchid	Right	Social Interaction	571.5	1	27.0	7499.0	277.7
+Trial029	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12206.2	254773	DarkOrchid	Left	Social Interaction	571.5	1	28.0	7371.0	263.2
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11254.4	254773	DarkOrchid	Right	Control	2052.1	2	17.0	7558.4	444.6
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11254.4	254773	DarkOrchid	Left	Control	2060.2	2	20.0	7099.2	355.0
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11254.4	254773	DarkOrchid	Right	Social Interaction	616.7	1	7.0	1839.6	262.8
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11254.4	254773	DarkOrchid	Left	Social Interaction	612.7	1	7.0	1951.6	278.8
+Trial025	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12198.1	254773	DarkOrchid	Right	Control	1354.7	2	28.0	5796.0	207.0
+Trial025	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12198.1	254773	DarkOrchid	Left	Control	1818.6	2	23.0	4464.5	194.1
+Trial025	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12198.1	254773	DarkOrchid	Right	Social Interaction	347.2	1	14.0	2575.5	184.0
+Trial025	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12198.1	254773	DarkOrchid	Left	Social Interaction	367.1	1	12.0	2727.8	227.3
+Trial027	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11253.8	254773	DarkOrchid	Right	Social Interaction	7287.9	2	4.0	743.9	186.0
+Trial027	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11253.8	254773	DarkOrchid	Left	Social Interaction	7335.9	2	4.0	607.9	152.0
+Trial027	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11253.8	254773	DarkOrchid	Right	Control	684.4	1	16.0	6011.5	375.7
+Trial027	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11253.8	254773	DarkOrchid	Left	Control	688.4	1	18.0	5899.5	327.7
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11231.7	254773	DarkOrchid	Right	Control	1421.6	2	26.0	5979.7	230.0
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11231.7	254773	DarkOrchid	Left	Control	1581.6	2	30.0	6535.8	217.9
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11231.7	254773	DarkOrchid	Right	Social Interaction	629.7	1	3.0	635.9	212.0
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11231.7	254773	DarkOrchid	Left	Social Interaction	633.7	1	2.0	647.9	324.0
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12201.5	254773	DarkOrchid	Right	Social Interaction	1299.7	2	25.0	5944.5	237.8
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12201.5	254773	DarkOrchid	Left	Social Interaction	1307.7	2	29.0	5624.4	193.9
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12201.5	254773	DarkOrchid	Right	Control	387.8	1	11.0	2491.5	226.5
+Trial015	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12201.5	254773	DarkOrchid	Left	Control	387.8	1	9.0	2443.5	271.5
+Trial007	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12141.4	254773	DarkOrchid	Right	Social Interaction	1951.1	2	22.0	7131.8	324.2
+Trial007	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12141.4	254773	DarkOrchid	Left	Social Interaction	1935.1	2	27.0	7575.6	280.6
+Trial007	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12141.4	254773	DarkOrchid	Right	Control	315.5	1	10.0	3139.2	313.9
+Trial007	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12141.4	254773	DarkOrchid	Left	Control	311.5	1	9.0	3331.3	370.1
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.4	254773	DarkOrchid	Right	Social Interaction	333.2	1	14.0	3047.0	217.6
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.4	254773	DarkOrchid	Left	Social Interaction	333.2	1	19.0	2775.3	146.1
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.4	254773	DarkOrchid	Right	Control	2361.3	2	26.0	5351.1	205.8
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11226.4	254773	DarkOrchid	Left	Control	2361.3	2	23.0	5599.1	243.4
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11228.0	254773	DarkOrchid	Right	Social Interaction	1505.3	2	15.0	4832.0	322.1
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11228.0	254773	DarkOrchid	Left	Social Interaction	1533.3	2	15.0	4652.1	310.1
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11228.0	254773	DarkOrchid	Right	Control	421.7	1	17.0	5135.5	302.1
+Trial017	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11228.0	254773	DarkOrchid	Left	Control	429.6	1	14.0	5339.5	381.4
+Trial019	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12228.7	254773	DarkOrchid	Right	Control	412.7	1	2.0	767.9	384.0
+Trial019	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12228.7	254773	DarkOrchid	Left	Control	412.7	1	3.0	763.9	254.6
+Trial019	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12228.7	254773	DarkOrchid	Right	Social Interaction	1300.6	2	22.0	10387.1	472.1
+Trial019	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12228.7	254773	DarkOrchid	Left	Social Interaction	1336.6	2	20.0	10403.2	520.2

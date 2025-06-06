@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11210.8	255002	Firebrick	Right	Social Interaction	393.5	1	17.0	7073.8	416.1
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11210.8	255002	Firebrick	Left	Social Interaction	397.5	1	21.0	7018.0	334.2
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11210.8	255002	Firebrick	Right	Control	4453.1	2	8.0	1961.5	245.2
+Trial009	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11210.8	255002	Firebrick	Left	Control	4473.1	2	8.0	1981.5	247.7
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12229.5	255002	Firebrick	Right	Social Interaction	391.0	1	12.0	6731.5	561.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12229.5	255002	Firebrick	Left	Social Interaction	391.0	1	14.0	6775.5	484.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12229.5	255002	Firebrick	Right	Control	3890.8	2	4.0	1168.0	292.0
+Trial013	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12229.5	255002	Firebrick	Left	Control	3906.8	2	4.0	1152.1	288.0
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12195.9	255002	Firebrick	Right	Control	6969.5	2	13.0	2939.9	226.1
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12195.9	255002	Firebrick	Left	Control	6957.6	2	9.0	2999.8	333.3
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12195.9	255002	Firebrick	Right	Social Interaction	373.8	1	7.0	5651.9	807.4
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12195.9	255002	Firebrick	Left	Social Interaction	365.8	1	10.0	5651.9	565.2
+Trial027	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11251.4	255002	Firebrick	Right	Control	7503.3	2	4.0	1308.2	327.0
+Trial027	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11251.4	255002	Firebrick	Left	Control	7495.2	2	8.0	1475.9	184.5
+Trial027	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11251.4	255002	Firebrick	Right	Social Interaction	411.7	1	10.0	6571.6	657.2
+Trial027	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11251.4	255002	Firebrick	Left	Social Interaction	411.7	1	8.0	6583.6	822.9
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12161.9	255002	Firebrick	Right	Control	373.7	1	13.0	5927.4	456.0
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12161.9	255002	Firebrick	Left	Control	377.7	1	13.0	5979.4	460.0
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12161.9	255002	Firebrick	Right	Social Interaction	4325.3	2	12.0	4383.8	365.3
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12161.9	255002	Firebrick	Left	Social Interaction	4325.3	2	10.0	4427.7	442.8
+Trial011	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11206.4	255002	Firebrick	Right	Social Interaction	1860.3	2	13.0	5627.4	432.9
+Trial011	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11206.4	255002	Firebrick	Left	Social Interaction	1836.3	2	13.0	5607.5	431.3
+Trial011	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11206.4	255002	Firebrick	Right	Control	376.5	1	9.0	2471.9	274.7
+Trial011	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11206.4	255002	Firebrick	Left	Control	372.5	1	9.0	2372.0	263.6
+Trial021	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11221.3	255002	Firebrick	Right	Control	-	-	0.0	0.0	0.0
+Trial021	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11221.3	255002	Firebrick	Left	Control	-	-	0.0	0.0	0.0
+Trial021	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11221.3	255002	Firebrick	Right	Social Interaction	387.2	1	27.0	10091.7	373.8
+Trial021	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11221.3	255002	Firebrick	Left	Social Interaction	387.2	1	33.0	10159.8	307.9
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12230.3	255002	Firebrick	Right	Social Interaction	7714.5	2	5.0	1792.0	358.4
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12230.3	255002	Firebrick	Left	Social Interaction	7670.5	2	5.0	1912.0	382.4
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12230.3	255002	Firebrick	Right	Control	339.1	1	26.0	9430.7	362.7
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12230.3	255002	Firebrick	Left	Control	335.1	1	26.0	9510.7	365.8
+Trial017	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12202.6	255002	Firebrick	Right	Social Interaction	431.6	1	11.0	5763.6	524.0
+Trial017	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12202.6	255002	Firebrick	Left	Social Interaction	431.6	1	12.0	5731.6	477.6
+Trial017	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12202.6	255002	Firebrick	Right	Control	2351.4	2	12.0	5359.3	446.6
+Trial017	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12202.6	255002	Firebrick	Left	Control	2359.4	2	12.0	5407.4	450.6
+Trial019	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11194.6	255002	Firebrick	Right	Social Interaction	367.4	1	17.0	5590.8	328.9
+Trial019	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11194.6	255002	Firebrick	Left	Social Interaction	367.4	1	17.0	5782.5	340.1
+Trial019	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11194.6	255002	Firebrick	Right	Control	6007.0	2	3.0	1212.0	404.0
+Trial019	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11194.6	255002	Firebrick	Left	Control	6007.0	2	4.0	1212.0	303.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11239.7	255002	Firebrick	Right	Social Interaction	453.8	1	23.0	8283.4	360.1
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11239.7	255002	Firebrick	Left	Social Interaction	457.8	1	21.0	8315.4	396.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11239.7	255002	Firebrick	Right	Control	3377.3	2	6.0	1931.9	322.0
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11239.7	255002	Firebrick	Left	Control	3377.3	2	6.0	1943.9	324.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12197.2	255002	Firebrick	Right	Control	399.6	1	13.0	6548.2	503.7
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12197.2	255002	Firebrick	Left	Control	387.6	1	14.0	6564.2	468.9
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12197.2	255002	Firebrick	Right	Social Interaction	7263.7	2	4.0	1735.9	434.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12197.2	255002	Firebrick	Left	Social Interaction	7279.7	2	5.0	1779.9	356.0

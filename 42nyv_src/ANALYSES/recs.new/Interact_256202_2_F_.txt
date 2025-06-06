@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11192.0	256202	DarkTurquoise	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11192.0	256202	DarkTurquoise	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11192.0	256202	DarkTurquoise	Right	Control	382.2	1	5.0	975.6	195.1
+Trial027	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11192.0	256202	DarkTurquoise	Left	Control	382.2	1	5.0	766.0	153.2
+Trial019	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12158.7	256202	DarkTurquoise	Right	Social Interaction	2250.9	2	19.0	4502.4	237.0
+Trial019	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12158.7	256202	DarkTurquoise	Left	Social Interaction	2250.9	2	23.0	5152.8	224.0
+Trial019	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12158.7	256202	DarkTurquoise	Right	Control	510.7	1	6.0	1508.2	251.4
+Trial019	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12158.7	256202	DarkTurquoise	Left	Control	530.7	1	6.0	1540.2	256.7
+Trial017	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12214.3	256202	DarkTurquoise	Right	Control	377.2	1	6.0	1012.0	168.7
+Trial017	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12214.3	256202	DarkTurquoise	Left	Control	377.2	1	9.0	1615.6	179.5
+Trial017	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12214.3	256202	DarkTurquoise	Right	Social Interaction	3928.2	2	18.0	6871.4	381.7
+Trial017	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12214.3	256202	DarkTurquoise	Left	Social Interaction	3709.4	2	21.0	7110.2	338.6
+Trial007	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11210.9	256202	DarkTurquoise	Right	Control	599.7	1	25.0	5935.8	237.4
+Trial007	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11210.9	256202	DarkTurquoise	Left	Control	607.7	1	18.0	6103.8	339.1
+Trial007	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11210.9	256202	DarkTurquoise	Right	Social Interaction	2147.6	2	10.0	2423.7	242.4
+Trial007	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11210.9	256202	DarkTurquoise	Left	Social Interaction	2099.6	2	9.0	3335.6	370.6
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12154.2	256202	DarkTurquoise	Right	Control	390.4	1	26.0	7795.7	299.8
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12154.2	256202	DarkTurquoise	Left	Control	390.4	1	28.0	7796.9	278.5
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12154.2	256202	DarkTurquoise	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial015	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12154.2	256202	DarkTurquoise	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11222.4	256202	DarkTurquoise	Right	Social Interaction	4480.7	1	21.0	6000.9	285.8
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11222.4	256202	DarkTurquoise	Left	Social Interaction	850.0	2	24.0	6168.4	257.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11222.4	256202	DarkTurquoise	Right	Control	-	-	0.0	0.0	0.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11222.4	256202	DarkTurquoise	Left	Control	566.1	1	1.0	171.8	171.8
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11217.4	256202	DarkTurquoise	Right	Control	532.0	1	6.0	2647.7	441.3
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11217.4	256202	DarkTurquoise	Left	Control	568.0	1	6.0	2591.7	431.9
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11217.4	256202	DarkTurquoise	Right	Social Interaction	3315.7	2	22.0	7611.5	346.0
+Trial013	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11217.4	256202	DarkTurquoise	Left	Social Interaction	3295.7	2	18.0	7679.5	426.6
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12202.8	256202	DarkTurquoise	Right	Social Interaction	446.2	1	16.0	2554.2	159.6
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12202.8	256202	DarkTurquoise	Left	Social Interaction	582.2	1	12.0	2350.9	195.9
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12202.8	256202	DarkTurquoise	Right	Control	10824.2	2	1.0	143.8	143.8
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12202.8	256202	DarkTurquoise	Left	Control	10800.2	2	1.0	159.8	159.8
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12206.7	256202	DarkTurquoise	Right	Social Interaction	564.6	1	8.0	3330.0	416.2
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12206.7	256202	DarkTurquoise	Left	Social Interaction	564.6	1	10.0	3372.2	337.2
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12206.7	256202	DarkTurquoise	Right	Control	-	-	0.0	0.0	0.0
+Trial021	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12206.7	256202	DarkTurquoise	Left	Control	-	-	0.0	0.0	0.0
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11211.2	256202	DarkTurquoise	Right	Social Interaction	9880.4	2	6.0	1276.3	212.7
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11211.2	256202	DarkTurquoise	Left	Social Interaction	9916.5	2	5.0	1232.2	246.4
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11211.2	256202	DarkTurquoise	Right	Control	360.9	1	13.0	2607.9	200.6
+Trial011	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11211.2	256202	DarkTurquoise	Left	Control	356.9	1	20.0	3635.3	181.8
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11182.3	256202	DarkTurquoise	Right	Social Interaction	349.1	1	5.0	2723.7	544.7
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11182.3	256202	DarkTurquoise	Left	Social Interaction	349.1	1	7.0	2543.8	363.4
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11182.3	256202	DarkTurquoise	Right	Control	3068.8	2	15.0	7395.6	493.0
+Trial009	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11182.3	256202	DarkTurquoise	Left	Control	3108.8	2	15.0	6627.6	441.8
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12171.5	256202	DarkTurquoise	Right	Control	-	-	0.0	0.0	0.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12171.5	256202	DarkTurquoise	Left	Control	-	-	0.0	0.0	0.0
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12171.5	256202	DarkTurquoise	Right	Social Interaction	6195.2	1	13.0	4126.6	317.4
+Trial029	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12171.5	256202	DarkTurquoise	Left	Social Interaction	6178.9	1	11.0	4194.1	381.3

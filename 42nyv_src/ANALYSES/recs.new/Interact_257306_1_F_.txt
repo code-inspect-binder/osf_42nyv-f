@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11148.9	257306	MediumPurple	Right	Social Interaction	992.5	1	7.0	2336.1	333.7
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11148.9	257306	MediumPurple	Left	Social Interaction	500.6	1	5.0	748.6	149.7
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11148.9	257306	MediumPurple	Right	Control	3988.4	2	5.0	671.9	134.4
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11148.9	257306	MediumPurple	Left	Control	3356.3	2	7.0	2072.0	296.0
+Trial017	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12218.1	257306	MediumPurple	Right	Social Interaction	490.3	1	4.0	1987.1	496.8
+Trial017	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12218.1	257306	MediumPurple	Left	Social Interaction	2022.3	1	1.0	532.7	532.7
+Trial017	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12218.1	257306	MediumPurple	Right	Control	3142.3	2	14.0	3472.1	248.0
+Trial017	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12218.1	257306	MediumPurple	Left	Control	3366.2	2	19.0	4267.1	224.6
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12184.4	257306	MediumPurple	Right	Control	746.8	1	20.0	5230.4	261.5
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12184.4	257306	MediumPurple	Left	Control	4346.4	1	10.0	3113.0	311.3
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12184.4	257306	MediumPurple	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial025	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12184.4	257306	MediumPurple	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial029	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11211.5	257306	MediumPurple	Right	Control	2431.9	2	11.0	3407.2	309.7
+Trial029	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11211.5	257306	MediumPurple	Left	Control	3399.5	2	6.0	1104.9	184.2
+Trial029	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11211.5	257306	MediumPurple	Right	Social Interaction	480.0	1	7.0	2613.6	373.4
+Trial029	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11211.5	257306	MediumPurple	Left	Social Interaction	411.9	1	10.0	2124.6	212.5
+Trial021	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12231.1	257306	MediumPurple	Right	Control	1124.3	1	18.0	2786.7	154.8
+Trial021	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12231.1	257306	MediumPurple	Left	Control	580.6	1	13.0	3721.7	286.3
+Trial021	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12231.1	257306	MediumPurple	Right	Social Interaction	3672.1	2	8.0	1459.7	182.5
+Trial021	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12231.1	257306	MediumPurple	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial013	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11200.6	257306	MediumPurple	Right	Social Interaction	1688.2	2	5.0	1059.3	211.9
+Trial013	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11200.6	257306	MediumPurple	Left	Social Interaction	1596.3	1	4.0	1076.6	269.2
+Trial013	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11200.6	257306	MediumPurple	Right	Control	466.3	1	2.0	242.9	121.5
+Trial013	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11200.6	257306	MediumPurple	Left	Control	3508.2	2	2.0	200.0	100.0
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11223.4	257306	MediumPurple	Right	Control	652.6	1	7.0	3495.5	499.4
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11223.4	257306	MediumPurple	Left	Control	3656.2	2	3.0	844.7	281.6
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11223.4	257306	MediumPurple	Right	Social Interaction	1308.5	2	6.0	1375.8	229.3
+Trial011	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11223.4	257306	MediumPurple	Left	Social Interaction	3240.3	1	3.0	511.4	170.5
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12239.0	257306	MediumPurple	Right	Social Interaction	634.9	1	3.0	1548.1	516.0
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12239.0	257306	MediumPurple	Left	Social Interaction	1078.8	1	3.0	1155.6	385.2
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12239.0	257306	MediumPurple	Right	Control	1638.8	2	4.0	856.0	214.0
+Trial023	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12239.0	257306	MediumPurple	Left	Control	1518.7	2	1.0	172.1	172.1
+Trial019	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12226.2	257306	MediumPurple	Right	Social Interaction	333.4	1	14.0	4307.7	307.7
+Trial019	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12226.2	257306	MediumPurple	Left	Social Interaction	3997.1	1	7.0	2699.8	385.7
+Trial019	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12226.2	257306	MediumPurple	Right	Control	793.1	2	1.0	160.0	160.0
+Trial019	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12226.2	257306	MediumPurple	Left	Control	-	-	0.0	0.0	0.0
+Trial009	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11272.9	257306	MediumPurple	Right	Social Interaction	1582.7	2	8.0	1808.1	226.0
+Trial009	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11272.9	257306	MediumPurple	Left	Social Interaction	5770.3	2	9.0	1192.3	132.5
+Trial009	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11272.9	257306	MediumPurple	Right	Control	958.7	1	5.0	1651.9	330.4
+Trial009	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11272.9	257306	MediumPurple	Left	Control	738.7	1	9.0	1847.4	205.3
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.6	257306	MediumPurple	Right	Social Interaction	1882.8	2	5.0	1012.0	202.4
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.6	257306	MediumPurple	Left	Social Interaction	1546.8	1	2.0	447.6	223.8
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.6	257306	MediumPurple	Right	Control	563.0	1	12.0	3251.0	270.9
+Trial007	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11200.6	257306	MediumPurple	Left	Control	2602.6	2	12.0	2968.0	247.3
+Trial027	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12217.5	257306	MediumPurple	Right	Control	1007.8	1	9.0	3487.5	387.5
+Trial027	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12217.5	257306	MediumPurple	Left	Control	635.8	1	4.0	868.9	217.2
+Trial027	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12217.5	257306	MediumPurple	Right	Social Interaction	3487.5	2	15.0	2587.9	172.5
+Trial027	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12217.5	257306	MediumPurple	Left	Social Interaction	4175.5	2	6.0	812.1	135.3

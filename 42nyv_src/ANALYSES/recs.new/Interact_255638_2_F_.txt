@@ -1,0 +1,49 @@
+Trial	Stimulus	Export Start Trial Time [ms]	Export End Trial Time [ms]	Participant	Color	Eye L/R	AOI Name	Entry Time [ms]	Sequence	Fixation Count	Fixation Time [ms]	Average Fixation Duration [ms]
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11214.1	255638	Goldenrod	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11214.1	255638	Goldenrod	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11214.1	255638	Goldenrod	Right	Control	765.8	1	33.0	7023.8	212.8
+Trial015	Lean_Dyad2_NA_Soc_Con_NA_.avi	0.0	11214.1	255638	Goldenrod	Left	Control	645.7	1	25.0	9619.8	384.8
+Trial011	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.5	255638	Goldenrod	Right	Social Interaction	1195.4	1	19.0	5804.0	305.5
+Trial011	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.5	255638	Goldenrod	Left	Social Interaction	1251.4	1	21.0	5087.6	242.3
+Trial011	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.5	255638	Goldenrod	Right	Control	-	-	0.0	0.0	0.0
+Trial011	Hand_Dyad3_NA_Soc_Con_NA_.avi	0.0	12167.5	255638	Goldenrod	Left	Control	9270.9	2	5.0	1033.6	206.7
+Trial027	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12210.8	255638	Goldenrod	Right	Control	751.2	1	15.0	2663.2	177.5
+Trial027	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12210.8	255638	Goldenrod	Left	Control	775.2	1	13.0	2488.0	191.4
+Trial027	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12210.8	255638	Goldenrod	Right	Social Interaction	2515.2	2	12.0	1559.9	130.0
+Trial027	Hand_Dyad2_Soc_NA_NA_Con_.avi	0.0	12210.8	255638	Goldenrod	Left	Social Interaction	2055.3	2	21.0	5309.3	252.8
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11176.5	255638	Goldenrod	Right	Control	1512.7	2	11.0	2807.8	255.3
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11176.5	255638	Goldenrod	Left	Control	1512.7	2	15.0	2875.8	191.7
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11176.5	255638	Goldenrod	Right	Social Interaction	1188.7	1	6.0	843.9	140.7
+Trial021	Lean_Dyad1_Soc_NA_NA_Con_.avi	0.0	11176.5	255638	Goldenrod	Left	Social Interaction	540.8	1	10.0	3412.2	341.2
+Trial019	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12150.4	255638	Goldenrod	Right	Control	557.4	1	16.0	7359.8	460.0
+Trial019	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12150.4	255638	Goldenrod	Left	Control	885.3	1	22.0	6973.8	317.0
+Trial019	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12150.4	255638	Goldenrod	Right	Social Interaction	7392.8	2	10.0	1319.6	132.0
+Trial019	Hand_Dyad4_NA_Con_Soc_NA_.avi	0.0	12150.4	255638	Goldenrod	Left	Social Interaction	7392.8	2	9.0	2735.7	304.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11212.0	255638	Goldenrod	Right	Social Interaction	1356.2	2	22.0	7347.3	334.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11212.0	255638	Goldenrod	Left	Social Interaction	1356.2	2	25.0	7587.2	303.5
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11212.0	255638	Goldenrod	Right	Control	620.2	1	3.0	456.0	152.0
+Trial025	Lean_Dyad4_Con_NA_NA_Soc_.avi	0.0	11212.0	255638	Goldenrod	Left	Control	412.3	1	3.0	855.9	285.3
+Trial007	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11169.6	255638	Goldenrod	Right	Control	1742.0	2	12.0	2012.1	167.7
+Trial007	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11169.6	255638	Goldenrod	Left	Control	1738.0	2	12.0	2136.0	178.0
+Trial007	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11169.6	255638	Goldenrod	Right	Social Interaction	974.3	1	28.0	6727.2	240.3
+Trial007	Clap_Dyad3_Soc_NA_NA_Con_.avi	0.0	11169.6	255638	Goldenrod	Left	Social Interaction	682.2	1	20.0	7855.2	392.8
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12143.4	255638	Goldenrod	Right	Social Interaction	9030.0	2	4.0	987.8	247.0
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12143.4	255638	Goldenrod	Left	Social Interaction	8913.9	2	5.0	1111.9	222.4
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12143.4	255638	Goldenrod	Right	Control	479.5	1	25.0	7150.7	286.0
+Trial013	Hand_Dyad1_Con_NA_NA_Soc_.avi	0.0	12143.4	255638	Goldenrod	Left	Control	479.5	1	17.0	8218.5	483.4
+Trial023	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12135.6	255638	Goldenrod	Right	Social Interaction	-	-	0.0	0.0	0.0
+Trial023	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12135.6	255638	Goldenrod	Left	Social Interaction	-	-	0.0	0.0	0.0
+Trial023	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12135.6	255638	Goldenrod	Right	Control	726.0	1	39.0	6283.8	161.1
+Trial023	Clap_Dyad2_Con_NA_NA_Soc_.avi	0.0	12135.6	255638	Goldenrod	Left	Control	429.4	1	28.0	9619.5	343.6
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11169.8	255638	Goldenrod	Right	Social Interaction	430.4	1	12.0	6455.6	538.0
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11169.8	255638	Goldenrod	Left	Social Interaction	434.4	1	15.0	6423.6	428.2
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11169.8	255638	Goldenrod	Right	Control	7321.8	2	5.0	486.0	97.2
+Trial017	Lean_Dyad3_NA_Con_Soc_NA_.avi	0.0	11169.8	255638	Goldenrod	Left	Control	7066.0	2	5.0	1069.8	214.0
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11199.8	255638	Goldenrod	Right	Social Interaction	1554.5	2	11.0	3104.0	282.2
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11199.8	255638	Goldenrod	Left	Social Interaction	1558.5	2	14.0	2183.7	156.0
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11199.8	255638	Goldenrod	Right	Control	1198.5	1	4.0	732.2	183.0
+Trial029	Clap_Dyad4_NA_Soc_Con_NA_.avi	0.0	11199.8	255638	Goldenrod	Left	Control	442.9	1	8.0	2199.5	274.9
+Trial009	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12213.1	255638	Goldenrod	Right	Control	474.2	1	17.0	7935.4	466.8
+Trial009	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12213.1	255638	Goldenrod	Left	Control	474.2	1	18.0	7959.4	442.2
+Trial009	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12213.1	255638	Goldenrod	Right	Social Interaction	9102.7	2	18.0	2076.0	115.3
+Trial009	Clap_Dyad1_NA_Con_Soc_NA_.avi	0.0	12213.1	255638	Goldenrod	Left	Social Interaction	8813.5	2	13.0	3155.7	242.7
